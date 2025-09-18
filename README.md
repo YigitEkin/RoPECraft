@@ -1,5 +1,7 @@
 # RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers
 
+## Accepted to NeurIPS 2025
+
 [Ahmet Berke Gokmen\*](https://berkegokmen1.github.io/), [Yiğit Ekin\*](https://yigitekin.github.io/), [Bahri Batuhan Bilecen\*](https://three-bee.github.io), and [Aysegul Dundar](http://www.cs.bilkent.edu.tr/~adundar/)
 
 \* Equal Contribution
