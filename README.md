@@ -62,6 +62,18 @@ python generate.py \
     --n_replace_gt_mod 10
 ```
 
+## Evaluation
+
+The paper details a new motion transfer metric called `Fréchet Trajectory Distance` (FTD). You can compute a sample FTD metric from a generated video provided in `assets/`.
+
+```bash
+python ftd.py \
+    --reference_video assets/blackswan.mp4 \
+    --target_video assets/output/A_child_in_a_duck_co.mp4 \
+    --mask_path assets/mask/blackswan \
+    --num_points 100
+```
+
 ---
 
 If you found our work useful, please don't forget to cite our work.
