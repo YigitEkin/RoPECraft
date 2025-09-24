@@ -1,7 +1,6 @@
 __pycache__
 __MACOSX
 wandb
-output*
 *.ckpt
 *.pth
 *.log
